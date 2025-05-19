@@ -2,6 +2,8 @@
 
 This project is designed to prototype visual animations for an LED matrix. It provides a framework for creating various animations and a graphical user interface (GUI) for previewing them.
 
+![alt text](screenshot.png)
+
 ## Setup Instructions
 
 1. Clone the repository:
